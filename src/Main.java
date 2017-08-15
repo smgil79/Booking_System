@@ -35,7 +35,7 @@ public class Main extends JFrame implements ActionListener{
 		btDelete = new JButton("예약취소");
 		pbt.add(btDelete);
 		
-		btPrintAll = new JButton("전체보기");
+		btPrintAll = new JButton("전체보기");  
 		pbt.add(btPrintAll);
 		
 		btExit = new JButton("나가기");

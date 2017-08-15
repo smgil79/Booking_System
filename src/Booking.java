@@ -141,7 +141,7 @@ public class Booking  extends JFrame implements ActionListener {
         gbc.gridx = x;
         gbc.gridy = y;
         gbc.gridwidth = w;
-        gbc.gridheight = h;
+        gbc.gridheight = h;  
         gb.setConstraints(c, gbc);
         gbc.insets = new Insets(1, 1, 1, 1);
         add(c, gbc);
